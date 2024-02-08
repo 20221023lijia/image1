@@ -1,0 +1,29 @@
+﻿生成启动时间为 2023/12/4 17:27:02。
+     1>项目“K:\VS2015code\identification\hsv_glcm_svm\第二次训练\ConsoleApplication1\ConsoleApplication1.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         K:\VS2015\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /GL /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Release\\" /Fd"x64\Release\vc140.pdb" /Gd /TP /errorReport:prompt glcm.cpp hsv.cpp main.cpp svm.cpp
+         glcm.cpp
+     1>glcm.cpp(162): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+         hsv.cpp
+         main.cpp
+         svm.cpp
+     1>svm.cpp(6): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+     1>svm.cpp(8): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+     1>svm.cpp(61): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+     1>svm.cpp(62): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+       Link:
+         K:\VS2015\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"K:\VS2015code\identification\hsv_glcm_svm\第二次训练\x64\Release\ConsoleApplication1.exe" /INCREMENTAL:NO /NOLOGO opencv_world341.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"K:\VS2015code\identification\hsv_glcm_svm\第二次训练\x64\Release\ConsoleApplication1.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG:incremental /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"K:\VS2015code\identification\hsv_glcm_svm\第二次训练\x64\Release\ConsoleApplication1.lib" /MACHINE:X64 x64\Release\glcm.obj
+         x64\Release\hsv.obj
+         x64\Release\main.obj
+         x64\Release\svm.obj
+         正在生成代码
+         904 of 906 functions (99.8%) were compiled, the rest were copied from previous compilation.
+           18 functions were new in current compilation
+           0 functions had inline decision re-evaluated but remain unchanged
+         已完成代码的生成
+         ConsoleApplication1.vcxproj -> K:\VS2015code\identification\hsv_glcm_svm\第二次训练\x64\Release\ConsoleApplication1.exe
+     1>已完成生成项目“K:\VS2015code\identification\hsv_glcm_svm\第二次训练\ConsoleApplication1\ConsoleApplication1.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:06.15

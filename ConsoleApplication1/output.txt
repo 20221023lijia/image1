@@ -1,0 +1,1076 @@
+Data Matrix:
+[-272787.47, 187600, 22020, 23780, -1.1258546]
+Predicted Label: 2
+image 0: no fire detected
+Data Matrix:
+[-221866.59, 176616, 20132, 21277, -1.403641]
+Predicted Label: 2
+image 1: no fire detected
+Data Matrix:
+[-278060.88, 188120, 14416, 30617, -1.1160383]
+Predicted Label: 2
+image 2: no fire detected
+Data Matrix:
+[-268648.75, 186860, 29564, 31187, -1.1409074]
+Predicted Label: 2
+image 3: no fire detected
+Data Matrix:
+[-264105.53, 186052, 28304, 30505, -1.156368]
+Predicted Label: 2
+image 4: no fire detected
+Data Matrix:
+[-270719.06, 187452, 28120, 31883, -1.1258546]
+Predicted Label: 2
+image 5: no fire detected
+Data Matrix:
+[-280206.5, 189076, 30084, 29627, -1.0969102]
+Predicted Label: 2
+image 6: no fire detected
+Data Matrix:
+[-267912.94, 186996, 25752, 31527, -1.1358453]
+Predicted Label: 2
+image 7: no fire detected
+Data Matrix:
+[-272005.06, 187396, 23920, 31357, -1.1258546]
+Predicted Label: 2
+image 8: no fire detected
+Data Matrix:
+[-280878.53, 188992, 25032, 31665, -1.0969102]
+Predicted Label: 2
+image 9: no fire detected
+Data Matrix:
+[-277864.81, 188484, 27148, 31758, -1.1063915]
+Predicted Label: 2
+image 10: no fire detected
+Data Matrix:
+[-288648.38, 190912, 27432, 30610, -1.064968]
+Predicted Label: 2
+image 11: no fire detected
+Data Matrix:
+[-282892.94, 189388, 24668, 31725, -1.08759]
+Predicted Label: 2
+image 12: no fire detected
+Data Matrix:
+[-284094.06, 189740, 29492, 32911, -1.0829891]
+Predicted Label: 2
+image 13: no fire detected
+Data Matrix:
+[-244696.73, 183536, 43580, 27299, -1.2110729]
+Predicted Label: 2
+image 14: no fire detected
+Data Matrix:
+[-281473.91, 189236, 27588, 32656, -1.0922302]
+Predicted Label: 2
+image 15: no fire detected
+Data Matrix:
+[-279275.31, 188872, 26372, 32204, -1.0969102]
+Predicted Label: 2
+image 16: no fire detected
+Data Matrix:
+[-276310.63, 188172, 25524, 31733, -1.111194]
+Predicted Label: 2
+image 17: no fire detected
+Data Matrix:
+[-271197.16, 187008, 25556, 30879, -1.1358453]
+Predicted Label: 2
+image 18: no fire detected
+Data Matrix:
+[-266774.66, 185420, 26132, 29700, -1.1722534]
+Predicted Label: 2
+image 19: no fire detected
+Data Matrix:
+[-266911.56, 185776, 29772, 30532, -1.1616151]
+Predicted Label: 2
+image 20: no fire detected
+Data Matrix:
+[-259895.3, 184100, 25764, 29031, -1.1997217]
+Predicted Label: 2
+image 21: no fire detected
+Data Matrix:
+[-264629.03, 184920, 22356, 28776, -1.1830884]
+Predicted Label: 2
+image 22: no fire detected
+Data Matrix:
+[-261675.66, 184232, 22632, 28228, -1.1997217]
+Predicted Label: 2
+image 23: no fire detected
+Data Matrix:
+[-342934.72, 201120, 27484, 32919, -0.9097926]
+Predicted Label: 2
+image 24: no fire detected
+Data Matrix:
+[-270696.38, 185984, 22512, 29569, -1.1616151]
+Predicted Label: 2
+image 25: no fire detected
+Data Matrix:
+[-270001.94, 187288, 25392, 27730, -1.1308279]
+Predicted Label: 2
+image 26: no fire detected
+Data Matrix:
+[-263188.66, 184476, 26772, 29141, -1.1941255]
+Predicted Label: 2
+image 27: no fire detected
+Data Matrix:
+[-257177.27, 183292, 25956, 28559, -1.222641]
+Predicted Label: 2
+image 28: no fire detected
+Data Matrix:
+[-317323.75, 200180, 43332, 34070, -0.91303742]
+Predicted Label: 2
+image 29: no fire detected
+Data Matrix:
+[-260682.38, 183788, 26240, 28427, -1.2110729]
+Predicted Label: 2
+image 30: no fire detected
+Data Matrix:
+[-258870.28, 188620, 25472, 29572, -1.0922302]
+Predicted Label: 2
+image 31: no fire detected
+Data Matrix:
+[-317142.53, 199724, 42040, 33746, -0.91959703]
+Predicted Label: 2
+image 32: no fire detected
+Data Matrix:
+[-308897.91, 198800, 42304, 32827, -0.92961502]
+Predicted Label: 2
+image 33: no fire detected
+Data Matrix:
+[-362853.13, 206948, 51704, 37588, -0.83829212]
+Predicted Label: 2
+image 34: no fire detected
+Data Matrix:
+[-355265.84, 205476, 55656, 41521, -0.85509253]
+Predicted Label: 2
+image 35: no fire detected
+Data Matrix:
+[-321086.41, 200404, 43644, 34729, -0.91303742]
+Predicted Label: 2
+image 36: no fire detected
+Data Matrix:
+[-308476.25, 198844, 42804, 33021, -0.92961502]
+Predicted Label: 2
+image 37: no fire detected
+Data Matrix:
+[-313063.84, 198376, 38508, 33999, -0.93985373]
+Predicted Label: 2
+image 38: no fire detected
+Data Matrix:
+[-312404.38, 199380, 40748, 33242, -0.92291224]
+Predicted Label: 2
+image 39: no fire detected
+Data Matrix:
+[-264157.66, 188800, 29480, 33928, -1.0922302]
+Predicted Label: 2
+image 40: no fire detected
+Data Matrix:
+[-307753.13, 197364, 38720, 34605, -0.95386136]
+Predicted Label: 2
+image 41: no fire detected
+Data Matrix:
+[-307771.41, 197216, 39028, 34876, -0.95386136]
+Predicted Label: 2
+image 42: no fire detected
+Data Matrix:
+[-281560.66, 192776, 29764, 31420, -1.0183672]
+Predicted Label: 2
+image 43: no fire detected
+Data Matrix:
+[-272096.09, 191116, 28612, 30507, -1.0475368]
+Predicted Label: 2
+image 44: no fire detected
+Data Matrix:
+[-310435.59, 199268, 44356, 33358, -0.92625153]
+Predicted Label: 2
+image 45: no fire detected
+Data Matrix:
+[-266957.66, 190056, 26952, 29944, -1.064968]
+Predicted Label: 2
+image 46: no fire detected
+Data Matrix:
+[-308549.63, 194532, 21492, 32316, -1.0024167]
+Predicted Label: 2
+image 47: no fire detected
+Data Matrix:
+[-307878.09, 198264, 58104, 34481, -0.93641585]
+Predicted Label: 2
+image 48: no fire detected
+Data Matrix:
+[-313056, 199368, 57012, 34542, -0.92291224]
+Predicted Label: 2
+image 49: no fire detected
+Data Matrix:
+[-312088.5, 198740, 56172, 34399, -0.92961502]
+Predicted Label: 2
+image 50: no fire detected
+Data Matrix:
+[-315683.41, 199560, 57220, 34692, -0.91959703]
+Predicted Label: 2
+image 51: no fire detected
+Data Matrix:
+[-314134.34, 198876, 57764, 34412, -0.92961502]
+Predicted Label: 2
+image 52: no fire detected
+Data Matrix:
+[-315018.34, 198404, 59592, 35141, -0.93985373]
+Predicted Label: 2
+image 53: no fire detected
+Data Matrix:
+[-298877.13, 195400, 53864, 32700, -0.97940642]
+Predicted Label: 2
+image 54: no fire detected
+Data Matrix:
+[-329497.25, 200520, 65820, 36468, -0.91303742]
+Predicted Label: 2
+image 55: no fire detected
+Data Matrix:
+[-306352.63, 196688, 57776, 33160, -0.96464425]
+Predicted Label: 2
+image 56: no fire detected
+Data Matrix:
+[-311804.5, 196872, 57680, 34609, -0.96464425]
+Predicted Label: 2
+image 57: no fire detected
+Data Matrix:
+[-240671.91, 183340, 31768, 26477, -1.2110729]
+Predicted Label: 2
+image 58: no fire detected
+Data Matrix:
+[-298887.38, 193648, 55764, 34303, -1.0143322]
+Predicted Label: 2
+image 59: no fire detected
+Data Matrix:
+[-295734.59, 193424, 53412, 32525, -1.0143322]
+Predicted Label: 2
+image 60: no fire detected
+Data Matrix:
+[-290268.88, 191752, 51144, 33096, -1.0432678]
+Predicted Label: 2
+image 61: no fire detected
+Data Matrix:
+[-243214.22, 183772, 40524, 29059, -1.1941255]
+Predicted Label: 2
+image 62: no fire detected
+Data Matrix:
+[-248548.67, 184732, 42220, 30301, -1.1722534]
+Predicted Label: 2
+image 63: no fire detected
+Data Matrix:
+[-224674.23, 177520, 25556, 23859, -1.3735172]
+Predicted Label: 2
+image 64: no fire detected
+Data Matrix:
+[-253557.11, 185404, 41940, 30294, -1.1616151]
+Predicted Label: 2
+image 65: no fire detected
+Data Matrix:
+[-322286.38, 199080, 28220, 38355, -0.93641585]
+Predicted Label: 2
+image 66: no fire detected
+Data Matrix:
+[-361358.5, 207816, 41716, 39423, -0.82478791]
+Predicted Label: 2
+image 67: no fire detected
+Data Matrix:
+[-366677.69, 211236, 51116, 47794, -0.78676558]
+Predicted Label: 2
+image 68: no fire detected
+Data Matrix:
+[-336000, 205732, 48252, 37734, -0.84104615]
+Predicted Label: 2
+image 69: no fire detected
+Data Matrix:
+[-337470.69, 203556, 27088, 33710, -0.87556446]
+Predicted Label: 2
+image 70: no fire detected
+Data Matrix:
+[-341879.63, 202880, 46216, 33906, -0.88770896]
+Predicted Label: 2
+image 71: no fire detected
+Data Matrix:
+[-220722.47, 176712, 24212, 27418, -1.3959869]
+Predicted Label: 2
+image 72: no fire detected
+Data Matrix:
+[-301426.84, 197148, 49116, 34890, -0.95386136]
+Predicted Label: 2
+image 73: no fire detected
+Data Matrix:
+[-351681.94, 204608, 25128, 37833, -0.86667198]
+Predicted Label: 2
+image 74: no fire detected
+Data Matrix:
+[-377346.69, 208176, 36600, 31095, -0.83013707]
+Predicted Label: 2
+image 75: no fire detected
+Data Matrix:
+[-381330.13, 213880, 34280, 41114, -0.76558959]
+Predicted Label: 2
+image 76: no fire detected
+Data Matrix:
+[-299157.94, 196252, 38672, 38412, -0.96829289]
+Predicted Label: 2
+image 77: no fire detected
+Data Matrix:
+[-298913.56, 192080, 36852, 30030, -1.0475368]
+Predicted Label: 2
+image 78: no fire detected
+Data Matrix:
+[-344033.41, 205352, 36880, 38134, -0.85224581]
+Predicted Label: 2
+image 79: no fire detected
+Data Matrix:
+[-246238.45, 181248, 24996, 21437, -1.2712108]
+Predicted Label: 2
+image 80: no fire detected
+Data Matrix:
+[-356705.84, 210148, 22920, 40738, -0.79904413]
+Predicted Label: 2
+image 81: no fire detected
+Data Matrix:
+[-307376.5, 196440, 12280, 34529, -0.97196925]
+Predicted Label: 2
+image 82: no fire detected
+Data Matrix:
+[-268717.69, 187784, 54308, 33225, -1.1209249]
+Predicted Label: 2
+image 83: no fire detected
+Data Matrix:
+[-379430.97, 212856, 55772, 48136, -0.77485871]
+Predicted Label: 2
+image 84: no fire detected
+Data Matrix:
+[-342383.09, 203080, 47724, 42093, -0.8785693]
+Predicted Label: 2
+image 85: no fire detected
+Data Matrix:
+[-352850.38, 204316, 29704, 33980, -0.86961597]
+Predicted Label: 2
+image 86: no fire detected
+Data Matrix:
+[-299973.22, 194276, 46612, 29836, -1.0063573]
+Predicted Label: 2
+image 87: no fire detected
+Data Matrix:
+[-271141.31, 190252, 52348, 30264, -1.0694168]
+Predicted Label: 2
+image 88: no fire detected
+Data Matrix:
+[-179165.63, 166872, 29300, 18879, -1.7854302]
+Predicted Label: 2
+image 89: no fire detected
+Data Matrix:
+[-277771.72, 188948, 43632, 39042, -1.0922302]
+Predicted Label: 2
+image 90: no fire detected
+Data Matrix:
+[-320010, 201624, 31260, 39208, -0.89390838]
+Predicted Label: 2
+image 91: no fire detected
+Data Matrix:
+[-241132.55, 180036, 25924, 25153, -1.3035764]
+Predicted Label: 2
+image 92: no fire detected
+Data Matrix:
+[-114714.35, 154540, 14512, 12411, -2.7123582]
+Predicted Label: 2
+image 93: no fire detected
+Data Matrix:
+[-341518.19, 204856, 20860, 32658, -0.85795826]
+Predicted Label: 2
+image 94: no fire detected
+Data Matrix:
+[-275654.91, 194392, 28484, 33427, -0.98695821]
+Predicted Label: 2
+image 95: no fire detected
+Data Matrix:
+[-361000.34, 209736, 41324, 39477, -0.8040635]
+Predicted Label: 2
+image 96: no fire detected
+Data Matrix:
+[-347084.41, 201232, 18160, 33941, -0.9097926]
+Predicted Label: 2
+image 97: no fire detected
+Data Matrix:
+[-362750.78, 207876, 58512, 46236, -0.82213914]
+Predicted Label: 2
+image 98: no fire detected
+Data Matrix:
+[-214539.78, 174708, 10740, 17303, -1.4680346]
+Predicted Label: 2
+image 99: no fire detected
+Data Matrix:
+[-324166.91, 202824, 22224, 42012, -0.87556446]
+Predicted Label: 2
+image 100: no fire detected
+Data Matrix:
+[-372792.28, 212560, 22964, 45981, -0.77252042]
+Predicted Label: 2
+image 101: no fire detected
+Data Matrix:
+[-373693.28, 213544, 38764, 41707, -0.76558959]
+Predicted Label: 2
+image 102: no fire detected
+Data Matrix:
+[-312896.13, 203228, 36284, 39545, -0.86667198]
+Predicted Label: 2
+image 103: no fire detected
+Data Matrix:
+[-354995.72, 204964, 17172, 35562, -0.86374778]
+Predicted Label: 2
+image 104: no fire detected
+Data Matrix:
+[-293895.59, 192084, 36532, 30332, -1.0432678]
+Predicted Label: 2
+image 105: no fire detected
+Data Matrix:
+[-256417.31, 187628, 49464, 33597, -1.1063915]
+Predicted Label: 2
+image 106: no fire detected
+Data Matrix:
+[-285456.53, 193476, 28744, 29803, -1.0143322]
+Predicted Label: 2
+image 107: no fire detected
+Data Matrix:
+[-225275.56, 178096, 3828, 31875, -1.3517594]
+Predicted Label: 2
+image 108: no fire detected
+Data Matrix:
+[-322969.84, 199724, 46456, 34364, -0.92291224]
+Predicted Label: 2
+image 109: no fire detected
+Data Matrix:
+[-284988.06, 189920, 35340, 31278, -1.0829891]
+Predicted Label: 2
+image 110: no fire detected
+Data Matrix:
+[-349405.44, 207404, 83084, 41622, -0.83013707]
+Predicted Label: 2
+image 111: no fire detected
+Data Matrix:
+[-299565.63, 194652, 69136, 36121, -0.99462742]
+Predicted Label: 2
+image 112: no fire detected
+Data Matrix:
+[-344934.53, 206636, 52360, 41872, -0.83555603]
+Predicted Label: 2
+image 113: no fire detected
+Data Matrix:
+[-328452.16, 201124, 29748, 39218, -0.90337163]
+Predicted Label: 2
+image 114: no fire detected
+Data Matrix:
+[-304397.59, 194872, 27288, 33962, -0.99077797]
+Predicted Label: 2
+image 115: no fire detected
+Data Matrix:
+[-255612.38, 186548, 33772, 28894, -1.1409074]
+Predicted Label: 2
+image 116: no fire detected
+Data Matrix:
+[-377015.19, 212612, 34328, 43904, -0.77721119]
+Predicted Label: 2
+image 117: no fire detected
+Data Matrix:
+[-168221.03, 166432, 29900, 17242, -1.7979698]
+Predicted Label: 2
+image 118: no fire detected
+Data Matrix:
+[-334051.5, 206412, 29204, 43822, -0.82745385]
+Predicted Label: 2
+image 119: no fire detected
+Data Matrix:
+[-319796.41, 207192, 15512, 40020, -0.81429386]
+Predicted Label: 2
+image 120: no fire detected
+Data Matrix:
+[-204911.45, 175976, 25112, 26862, -1.403641]
+Predicted Label: 2
+image 121: no fire detected
+Data Matrix:
+[-292583.97, 192556, 36988, 33854, -1.0306672]
+Predicted Label: 2
+image 122: no fire detected
+Data Matrix:
+[-338935.94, 204948, 37644, 34639, -0.85509253]
+Predicted Label: 2
+image 123: no fire detected
+Data Matrix:
+[-280436.66, 187652, 25304, 24624, -1.1308279]
+Predicted Label: 2
+image 124: no fire detected
+Data Matrix:
+[-256201.2, 183588, 32760, 23919, -1.2168294]
+Predicted Label: 2
+image 125: no fire detected
+Data Matrix:
+[-329072.81, 197400, 56328, 30499, -0.96464425]
+Predicted Label: 2
+image 126: no fire detected
+Data Matrix:
+[-370545.06, 212044, 45688, 45994, -0.77957797]
+Predicted Label: 2
+image 127: no fire detected
+Data Matrix:
+[-264520.84, 188744, 29176, 28543, -1.0969102]
+Predicted Label: 2
+image 128: no fire detected
+Data Matrix:
+[-317807.78, 204012, 52680, 41730, -0.85224581]
+Predicted Label: 2
+image 129: no fire detected
+Data Matrix:
+[-377121.09, 212900, 12100, 46119, -0.77485871]
+Predicted Label: 2
+image 130: no fire detected
+Data Matrix:
+[-328022.5, 198300, 39620, 35987, -0.94680572]
+Predicted Label: 2
+image 131: no fire detected
+Data Matrix:
+[-338762.53, 207928, 35780, 42194, -0.81171197]
+Predicted Label: 2
+image 132: no fire detected
+Data Matrix:
+[-286801.75, 189188, 14888, 24158, -1.1016306]
+Predicted Label: 2
+image 133: no fire detected
+Data Matrix:
+[-319426, 198812, 52452, 37573, -0.93300307]
+Predicted Label: 2
+image 134: no fire detected
+Data Matrix:
+[-340572.28, 202792, 40200, 36206, -0.88770896]
+Predicted Label: 2
+image 135: no fire detected
+Data Matrix:
+[-124095.79, 156468, 17948, 14465, -2.5004196]
+Predicted Label: 2
+image 136: no fire detected
+Data Matrix:
+[-243873.52, 180944, 30492, 22801, -1.2775546]
+Predicted Label: 2
+image 137: no fire detected
+Data Matrix:
+[-368487.19, 206132, 34120, 31893, -0.85224581]
+Predicted Label: 2
+image 138: no fire detected
+Data Matrix:
+[-300177.19, 192328, 28888, 27887, -1.0432678]
+Predicted Label: 2
+image 139: no fire detected
+Data Matrix:
+[-390964.78, 212164, 51624, 42915, -0.78676558]
+Predicted Label: 2
+image 140: no fire detected
+Data Matrix:
+[-370515.22, 214792, 21852, 42641, -0.74989128]
+Predicted Label: 2
+image 141: no fire detected
+Data Matrix:
+[-294546.47, 190816, 35564, 27895, -1.0694168]
+Predicted Label: 2
+image 142: no fire detected
+Data Matrix:
+[-383502.44, 209816, 40356, 37659, -0.81171197]
+Predicted Label: 2
+image 143: no fire detected
+Data Matrix:
+[-328627.06, 200572, 68264, 40211, -0.90657073]
+Predicted Label: 2
+image 144: no fire detected
+Data Matrix:
+[-227072.27, 176892, 26024, 24328, -1.3959869]
+Predicted Label: 2
+image 145: no fire detected
+Data Matrix:
+[-299807.75, 196984, 41864, 38156, -0.95386136]
+Predicted Label: 2
+image 146: no fire detected
+Data Matrix:
+[-285662.63, 189796, 30444, 30851, -1.0829891]
+Predicted Label: 2
+image 147: no fire detected
+Data Matrix:
+[-267339.5, 186936, 27764, 29350, -1.1409074]
+Predicted Label: 2
+image 148: no fire detected
+Data Matrix:
+[-263929.72, 186012, 32468, 29997, -1.156368]
+Predicted Label: 2
+image 149: no fire detected
+Data Matrix:
+[-283399.94, 189504, 33520, 32055, -1.0922302]
+Predicted Label: 2
+image 150: no fire detected
+Data Matrix:
+[-262934.03, 185772, 32012, 30316, -1.1616151]
+Predicted Label: 2
+image 151: no fire detected
+Data Matrix:
+[-277629.41, 188668, 33192, 31465, -1.1063915]
+Predicted Label: 2
+image 152: no fire detected
+Data Matrix:
+[-296103.91, 192160, 29960, 32080, -1.0390335]
+Predicted Label: 2
+image 153: no fire detected
+Data Matrix:
+[-269122.75, 186688, 29480, 29565, -1.1460148]
+Predicted Label: 2
+image 154: no fire detected
+Data Matrix:
+[-334644.88, 200448, 37260, 33343, -0.91630548]
+Predicted Label: 2
+image 155: no fire detected
+Data Matrix:
+[-240538.28, 182848, 31844, 25447, -1.222641]
+Predicted Label: 2
+image 157: no fire detected
+Data Matrix:
+[-300519.69, 201228, 46476, 35189, -0.84941804]
+Predicted Label: 2
+image 158: no fire detected
+Data Matrix:
+[-290680.31, 203576, 21988, 29978, -0.79904413]
+Predicted Label: 2
+image 159: no fire detected
+Data Matrix:
+[-352794.91, 204540, 44420, 33878, -0.86667198]
+Predicted Label: 2
+image 160: no fire detected
+Data Matrix:
+[-334081.84, 200292, 30520, 33137, -0.91959703]
+Predicted Label: 2
+image 161: no fire detected
+Data Matrix:
+[-358372.5, 207320, 51440, 37321, -0.83013707]
+Predicted Label: 2
+image 162: no fire detected
+Data Matrix:
+[-322792.41, 202648, 37484, 39268, -0.8785693]
+Predicted Label: 2
+image 163: no fire detected
+Data Matrix:
+[-273885.47, 186064, 25616, 23095, -1.1616151]
+Predicted Label: 2
+image 164: no fire detected
+Data Matrix:
+[-280775.94, 197808, 33544, 33394, -0.8815949]
+Predicted Label: 2
+image 165: no fire detected
+Data Matrix:
+[-306247.34, 199168, 25084, 28741, -0.91630548]
+Predicted Label: 2
+image 166: no fire detected
+Data Matrix:
+[-203445.27, 173416, 21536, 18496, -1.502499]
+Predicted Label: 2
+image 168: no fire detected
+Data Matrix:
+[-316538.13, 197920, 53156, 35181, -0.94680572]
+Predicted Label: 2
+image 170: no fire detected
+Data Matrix:
+[-346884.03, 206260, 40292, 39117, -0.84104615]
+Predicted Label: 2
+image 171: no fire detected
+Data Matrix:
+[-242167.14, 181092, 35880, 24773, -1.2712108]
+Predicted Label: 2
+image 173: no fire detected
+Data Matrix:
+[-288361.22, 193280, 32740, 32555, -1.010329]
+Predicted Label: 2
+image 174: no fire detected
+Data Matrix:
+[-248643.03, 185904, 25384, 30808, -1.1016306]
+Predicted Label: 2
+image 175: no fire detected
+Data Matrix:
+[-336269.41, 202236, 47844, 38961, -0.89079785]
+Predicted Label: 2
+image 176: no fire detected
+Data Matrix:
+[-266339.63, 186012, 28084, 28660, -1.156368]
+Predicted Label: 2
+image 178: no fire detected
+Data Matrix:
+[-375601.03, 212712, 58728, 45185, -0.77485871]
+Predicted Label: 2
+image 180: no fire detected
+Data Matrix:
+[-276219.56, 188184, 28420, 24785, -1.1160383]
+Predicted Label: 2
+image 181: no fire detected
+Data Matrix:
+[-372242.53, 208716, 23164, 42698, -0.8195073]
+Predicted Label: 2
+image 182: no fire detected
+Data Matrix:
+[-282576.06, 195136, 29568, 28294, -0.95386136]
+Predicted Label: 2
+image 183: no fire detected
+Data Matrix:
+[-318770.31, 199364, 30084, 38778, -0.92291224]
+Predicted Label: 2
+image 184: no fire detected
+Data Matrix:
+[-344824.19, 203584, 57408, 41197, -0.86374778]
+Predicted Label: 2
+image 185: no fire detected
+Data Matrix:
+[-364633.78, 206948, 57680, 46617, -0.83555603]
+Predicted Label: 2
+image 186: no fire detected
+Data Matrix:
+[-235644.14, 187116, 20380, 26127, -1.0224344]
+Predicted Label: 2
+image 187: no fire detected
+Data Matrix:
+[-357704.31, 211828, 35840, 44495, -0.76103771]
+Predicted Label: 2
+image 188: no fire detected
+Data Matrix:
+[-348504.19, 204632, 34704, 37643, -0.86374778]
+Predicted Label: 2
+image 189: no fire detected
+Data Matrix:
+[-235061.52, 178784, 35524, 26843, -1.3306803]
+Predicted Label: 2
+image 190: no fire detected
+Data Matrix:
+[-216414.27, 176660, 34672, 24087, -1.3959869]
+Predicted Label: 2
+image 191: no fire detected
+Data Matrix:
+[-296920.19, 195408, 31036, 33356, -0.98316783]
+Predicted Label: 2
+image 192: no fire detected
+Data Matrix:
+[-301219.13, 194272, 59496, 33794, -1.0024167]
+Predicted Label: 2
+image 194: no fire detected
+Data Matrix:
+[-234357.86, 179596, 33292, 22214, -1.3102483]
+Predicted Label: 2
+image 195: no fire detected
+Data Matrix:
+[-295085.53, 205252, 21628, 32795, -0.76558959]
+Predicted Label: 2
+image 196: no fire detected
+Data Matrix:
+[-319139.69, 198804, 33624, 32664, -0.93641585]
+Predicted Label: 2
+image 197: no fire detected
+Data Matrix:
+[-322409.53, 197508, 30288, 32045, -0.95742875]
+Predicted Label: 2
+image 199: no fire detected
+Data Matrix:
+[-365081.41, 207920, 55604, 41575, -0.82745385]
+Predicted Label: 2
+image 200: no fire detected
+Data Matrix:
+[-289617.38, 192356, 50136, 30532, -1.0348334]
+Predicted Label: 2
+image 201: no fire detected
+Data Matrix:
+[-264656.5, 188544, 69756, 38913, -1.0922302]
+Predicted Label: 2
+image 202: no fire detected
+Data Matrix:
+[-375637.38, 212752, 36160, 42820, -0.77252042]
+Predicted Label: 2
+image 204: no fire detected
+Data Matrix:
+[-292212.44, 191908, 32528, 36438, -1.0432678]
+Predicted Label: 2
+image 205: no fire detected
+Data Matrix:
+[-297294.13, 192992, 39676, 31405, -1.0265342]
+Predicted Label: 2
+image 206: no fire detected
+Data Matrix:
+[-273617.22, 198344, 24516, 32956, -0.89390838]
+Predicted Label: 2
+image 207: no fire detected
+Data Matrix:
+[-358591.88, 211620, 49548, 41573, -0.74552363]
+Predicted Label: 2
+image 208: no fire detected
+Data Matrix:
+[-339554, 200936, 36896, 32697, -0.91303742]
+Predicted Label: 2
+image 209: no fire detected
+Data Matrix:
+[-341559.28, 201724, 68480, 43298, -0.90019506]
+Predicted Label: 2
+image 210: no fire detected
+Data Matrix:
+[-269249.28, 188544, 23332, 30414, -1.1016306]
+Predicted Label: 2
+image 211: no fire detected
+Data Matrix:
+[-254732.94, 183228, 40368, 28476, -1.222641]
+Predicted Label: 2
+image 212: no fire detected
+Data Matrix:
+[-381785.78, 216384, 5528, 35750, -0.73906672]
+Predicted Label: 2
+image 213: no fire detected
+Data Matrix:
+[-350015.31, 211968, 45400, 35586, -0.76558959]
+Predicted Label: 2
+image 214: no fire detected
+Data Matrix:
+[-338182.75, 207116, 36500, 35638, -0.80914634]
+Predicted Label: 2
+image 216: no fire detected
+Data Matrix:
+[-322245.38, 209104, 43748, 38377, -0.77019626]
+Predicted Label: 2
+image 217: no fire detected
+Data Matrix:
+[-336841.88, 201580, 34852, 32088, -0.90337163]
+Predicted Label: 2
+image 218: no fire detected
+Data Matrix:
+[-360259.63, 213688, 32744, 33590, -0.74335879]
+Predicted Label: 2
+image 219: no fire detected
+Data Matrix:
+[-216963.45, 178048, 24908, 26754, -1.2525516]
+Predicted Label: 2
+image 220: no fire detected
+Data Matrix:
+[-291504.53, 193140, 25228, 26599, -1.0224344]
+Predicted Label: 2
+image 221: no fire detected
+Data Matrix:
+[-300408.38, 202952, 37544, 35380, -0.82213914]
+Predicted Label: 2
+image 222: no fire detected
+Data Matrix:
+[-379163.22, 214568, 29320, 34477, -0.74770111]
+Predicted Label: 2
+image 223: no fire detected
+Data Matrix:
+[-258094.75, 184988, 33532, 28572, -1.177646]
+Predicted Label: 2
+image 224: no fire detected
+Data Matrix:
+[-315527.66, 200604, 28624, 41454, -0.8785693]
+Predicted Label: 2
+image 225: no fire detected
+Data Matrix:
+[-268917.53, 196856, 14764, 21348, -0.90657073]
+Predicted Label: 2
+image 227: no fire detected
+Data Matrix:
+[-166220.47, 164524, 21060, 16745, -1.9050056]
+Predicted Label: 2
+image 228: no fire detected
+Data Matrix:
+[-223699.42, 179524, 25136, 27010, -1.3035764]
+Predicted Label: 2
+image 229: no fire detected
+Data Matrix:
+[-333724.69, 201540, 36016, 33010, -0.90019506]
+Predicted Label: 2
+image 230: no fire detected
+Data Matrix:
+[-224939.8, 178588, 43036, 25292, -1.3376331]
+Predicted Label: 2
+image 231: no fire detected
+Data Matrix:
+[-269456.78, 188768, 60452, 34041, -1.010329]
+Predicted Label: 2
+image 232: no fire detected
+Data Matrix:
+[-276800.66, 188100, 45064, 32182, -1.1160383]
+Predicted Label: 2
+image 233: no fire detected
+Data Matrix:
+[-373793.81, 214312, 50884, 45341, -0.75653958]
+Predicted Label: 2
+image 234: no fire detected
+Data Matrix:
+[-187181.25, 169616, 30960, 26771, -1.6475439]
+Predicted Label: 2
+image 235: no fire detected
+Data Matrix:
+[-370196.78, 208120, 56088, 42137, -0.82478791]
+Predicted Label: 2
+image 236: no fire detected
+Data Matrix:
+[-311172.22, 194856, 51412, 33140, -0.99850684]
+Predicted Label: 2
+image 237: no fire detected
+Data Matrix:
+[-231034.23, 181708, 42560, 33958, -1.2344321]
+Predicted Label: 2
+image 238: no fire detected
+Data Matrix:
+[-334484.16, 203236, 14464, 35389, -0.87258011]
+Predicted Label: 2
+image 239: no fire detected
+Data Matrix:
+[-349241.31, 203692, 28892, 40982, -0.87556446]
+Predicted Label: 2
+image 240: no fire detected
+Data Matrix:
+[-360450.09, 206144, 54204, 40173, -0.84941804]
+Predicted Label: 2
+image 241: no fire detected
+Data Matrix:
+[-306363.72, 194108, 38704, 33166, -1.010329]
+Predicted Label: 2
+image 242: no fire detected
+Data Matrix:
+[-296788.16, 194736, 24052, 34803, -0.99462742]
+Predicted Label: 2
+image 244: no fire detected
+Data Matrix:
+[-287974.09, 193112, 51416, 38413, -1.0063573]
+Predicted Label: 2
+image 245: no fire detected
+Data Matrix:
+[-332839.06, 209352, 35000, 34275, -0.76103771]
+Predicted Label: 2
+image 246: no fire detected
+Data Matrix:
+[-309064.03, 195136, 38308, 35365, -0.99462742]
+Predicted Label: 2
+image 247: no fire detected
+Data Matrix:
+[-309852, 193980, 23708, 35737, -1.0143322]
+Predicted Label: 2
+image 248: no fire detected
+Data Matrix:
+[-355458.75, 207884, 69148, 44115, -0.81689227]
+Predicted Label: 2
+image 250: no fire detected
+Data Matrix:
+[-362206.38, 206224, 42248, 38191, -0.84660894]
+Predicted Label: 2
+image 251: no fire detected
+Data Matrix:
+[-308918.28, 194792, 4400, 34700, -0.99850684]
+Predicted Label: 2
+image 252: no fire detected
+Data Matrix:
+[-229533.38, 180356, 35948, 24025, -1.2839622]
+Predicted Label: 2
+image 253: no fire detected
+Data Matrix:
+[-311250.94, 197400, 37412, 37770, -0.95386136]
+Predicted Label: 2
+image 257: no fire detected
+Data Matrix:
+[-354451.53, 205992, 56212, 42498, -0.84660894]
+Predicted Label: 2
+image 258: no fire detected
+Data Matrix:
+[-338098.09, 201664, 49916, 33529, -0.89704072]
+Predicted Label: 2
+image 260: no fire detected
+Data Matrix:
+[-331860.03, 203724, 60664, 40199, -0.85509253]
+Predicted Label: 2
+image 261: no fire detected
+Data Matrix:
+[-293882.63, 190204, 24204, 24220, -1.0784268]
+Predicted Label: 2
+image 263: no fire detected
+Data Matrix:
+[-314303.88, 207456, 21112, 36017, -0.77721119]
+Predicted Label: 2
+image 264: no fire detected
+Data Matrix:
+[-380979.22, 212980, 52164, 42576, -0.77019626]
+Predicted Label: 2
+image 266: no fire detected
+Data Matrix:
+[-344838.41, 203980, 36068, 34433, -0.86961597]
+Predicted Label: 2
+image 268: no fire detected
+Data Matrix:
+[-317405.84, 197724, 32372, 31616, -0.95032048]
+Predicted Label: 2
+image 270: no fire detected
+Data Matrix:
+[-238025.3, 181212, 15324, 29526, -1.2649295]
+Predicted Label: 2
+image 271: no fire detected
+Data Matrix:
+[-288344.81, 192352, 30736, 27005, -1.0265342]
+Predicted Label: 2
+image 272: no fire detected
+Data Matrix:
+[-329394.84, 202260, 23524, 40760, -0.88464135]
+Predicted Label: 2
+image 273: no fire detected
+Data Matrix:
+[-365725.16, 206764, 37012, 35979, -0.83829212]
+Predicted Label: 2
+image 274: no fire detected
+Data Matrix:
+[-273863.38, 196404, 23684, 28650, -0.85795826]
+Predicted Label: 2
+image 275: no fire detected
+Data Matrix:
+[-346301.53, 202224, 34260, 29415, -0.89704072]
+Predicted Label: 2
+image 276: no fire detected
+Data Matrix:
+[-329265.34, 199984, 61632, 40569, -0.92291224]
+Predicted Label: 2
+image 277: no fire detected
+Data Matrix:
+[-291870.53, 201496, 25260, 31924, -0.82213914]
+Predicted Label: 2
+image 278: no fire detected
+Data Matrix:
+[-199435.44, 171728, 24432, 20497, -1.5668722]
+Predicted Label: 2
+image 281: no fire detected
+Data Matrix:
+[-347757.66, 203368, 35832, 30993, -0.8815949]
+Predicted Label: 2
+image 282: no fire detected
+Data Matrix:
+[-266792.13, 187308, 22220, 27824, -1.1209249]
+Predicted Label: 2
+image 283: no fire detected
+Data Matrix:
+[-319207.5, 210252, 24424, 29060, -0.74770111]
+Predicted Label: 2
+image 284: no fire detected
+Data Matrix:
+[-295213.69, 193340, 26392, 28571, -1.0224344]
+Predicted Label: 2
+image 285: no fire detected
+Data Matrix:
+[-334636.31, 204468, 38120, 40216, -0.84381843]
+Predicted Label: 2
+image 286: no fire detected
+Data Matrix:
+[-328659.88, 200332, 26744, 36271, -0.91630548]
+Predicted Label: 2
+image 287: no fire detected
+Data Matrix:
+[-297451.5, 204740, 24532, 23249, -0.79163146]
+Predicted Label: 2
+image 288: no fire detected
+Data Matrix:
+[-340215.53, 211568, 32168, 33786, -0.74335879]
+Predicted Label: 2
+image 289: no fire detected
+Data Matrix:
+[-280637.19, 189120, 37012, 28185, -1.0922302]
+Predicted Label: 2
+image 291: no fire detected
+Data Matrix:
+[-310450.72, 195572, 30056, 27349, -0.98695821]
+Predicted Label: 2
+image 292: no fire detected
